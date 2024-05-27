@@ -13,7 +13,7 @@
     "@snyk/dep-graph": "^1.19.0",
     "chalk": "^4.0.0",
     "cli-ux": "^5.4.6",
-    "globby": "^10.0.2",
+    "globby": "^11.0.0",
     "snyk": "^1.332.1",
     "snyk-request-manager": "^1.0.0",
     "tslib": "^1.13.0"
